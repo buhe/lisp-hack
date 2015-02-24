@@ -1,0 +1,2 @@
+# lisp-hack
+learn lisp 
